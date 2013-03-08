@@ -25,6 +25,9 @@ $ cp settings.yml{.example,}
 
 (settings.yml を適当に編集する)
 
+$ gem update bundler
+(Ruby2.0.0 のために bundler を更新する必要があるかも)
+
 $ bundle exec ruby 29hours.rb
 (動作を確認する)
 
