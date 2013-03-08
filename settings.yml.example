@@ -5,9 +5,9 @@ twitter:
     xxxxx
   consumer_secret:
     xxxxx
-  access_key:
+  access_token:
     xxxxx
-  access_secret:
+  access_token_secret:
     xxxxx
 matchers:
   keywords:
